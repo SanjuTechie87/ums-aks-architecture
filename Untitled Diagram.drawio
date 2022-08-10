@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-10T11:18:22.501Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="9J3CyLB1D2MXqkk7Undw" version="20.2.3" type="github">
+<mxfile modified="2022-08-10T11:19:23.806Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3KFQZBcWDpmEGFhtNg9I" version="20.2.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2782" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-16" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="-270" y="10" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="s90jCnnxSJwFDAYOhbZ5-17" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=svc;rotation=90;" vertex="1" parent="1">
+        <mxCell id="s90jCnnxSJwFDAYOhbZ5-17" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=svc;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-176" y="239" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-57" value="" style="group" vertex="1" connectable="0" parent="1">
