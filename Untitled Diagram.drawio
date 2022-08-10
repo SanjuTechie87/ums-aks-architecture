@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-10T07:46:12.635Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xI70W_MU17GomhFyWuQS" version="20.2.3" type="github">
+<mxfile modified="2022-08-10T07:47:14.452Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vqh8cF6OMe3J25vuA_mm" version="20.2.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1153" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -116,10 +116,13 @@
           <mxGeometry width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-1" value="c" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-63">
-          <mxGeometry x="36.67" y="22.92" width="53.33" height="47.08" as="geometry" />
+          <mxGeometry x="36.67" y="32.92" width="53.33" height="47.08" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-8" value="Master Node" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-63">
           <mxGeometry x="18.34" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s90jCnnxSJwFDAYOhbZ5-68" value="Node Pool A" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-63">
+          <mxGeometry x="18.339999999999975" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-64" value="" style="group" vertex="1" connectable="0" parent="s90jCnnxSJwFDAYOhbZ5-61">
           <mxGeometry x="15" y="160" width="130" height="110" as="geometry" />
@@ -128,10 +131,13 @@
           <mxGeometry width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-66" value="c" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-64">
-          <mxGeometry x="36.67" y="22.92" width="53.33" height="47.08" as="geometry" />
+          <mxGeometry x="36.67" y="32.92" width="53.33" height="47.08" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-67" value="Master Node" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-64">
           <mxGeometry x="18.34" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s90jCnnxSJwFDAYOhbZ5-69" value="Node Pool B" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-64">
+          <mxGeometry x="20" y="2.919999999999959" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
