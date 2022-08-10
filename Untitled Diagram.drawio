@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-10T11:46:26.189Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uQ6o7w2MsYLamVMOiXXr" version="20.2.3" type="github">
+<mxfile modified="2022-08-10T11:49:46.599Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oIi2XkxmYqs0pLPccLpq" version="20.2.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2782" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -336,6 +336,9 @@
               <mxPoint x="245" y="396" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s90jCnnxSJwFDAYOhbZ5-163" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Elastic Agent &lt;br&gt;APM Integration&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="650.0037931034483" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
