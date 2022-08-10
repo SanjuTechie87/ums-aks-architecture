@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-10T07:47:14.452Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vqh8cF6OMe3J25vuA_mm" version="20.2.3" type="github">
+<mxfile modified="2022-08-10T07:50:30.995Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QDQyrTuQHZnyPzNRpGJ4" version="20.2.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1153" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,20 +86,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="130" width="120" height="220" as="geometry" />
+          <mxGeometry x="597" y="190" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-58">
-          <mxGeometry width="120" height="220" as="geometry" />
+          <mxGeometry width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-21" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-58">
-          <mxGeometry x="34" y="79.53846153846153" width="50" height="40.615384615384606" as="geometry" />
+          <mxGeometry x="34" y="15.11111111111111" width="50" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-23" value="Ingest Node" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-58">
-          <mxGeometry x="14" y="120.15384615384615" width="90" height="30" as="geometry" />
+          <mxGeometry x="14" y="58.61538461538462" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-60" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="699" y="245" as="sourcePoint" />
+            <mxPoint x="720" y="245" as="sourcePoint" />
             <mxPoint x="769" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -138,6 +138,18 @@
         </mxCell>
         <mxCell id="s90jCnnxSJwFDAYOhbZ5-69" value="Node Pool B" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="s90jCnnxSJwFDAYOhbZ5-64">
           <mxGeometry x="20" y="2.919999999999959" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s90jCnnxSJwFDAYOhbZ5-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544" y="245" as="sourcePoint" />
+            <mxPoint x="593" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s90jCnnxSJwFDAYOhbZ5-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="547" y="310.00000000000006" as="sourcePoint" />
+            <mxPoint x="767" y="310.06" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
