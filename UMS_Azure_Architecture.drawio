@@ -1,38 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T03:53:34.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0sQn01xEyGQB96oBv1e9" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T04:00:26.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="GErGL88-RWWIgC0OOLBO" version="20.2.3" type="github">
   <diagram id="vE-s246k_aeRdo4_wEya" name="Page-1">
-    <mxGraphModel dx="1046" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="m1RIJeh8Od90vUy7fvxv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="740" height="500" as="geometry" />
+          <mxGeometry x="-40" y="-70" width="850" height="620" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="630" height="440" as="geometry" />
+          <mxGeometry x="30" width="720" height="520" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="140" width="560" height="330" as="geometry" />
+          <mxGeometry x="150" y="60" width="560" height="410" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="310" width="375" height="130" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="170" width="375" height="120" as="geometry" />
+          <mxGeometry x="297.5" y="80" width="375" height="210" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=0;dashed=1;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="390" y="195" width="260" height="225" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="270" y="90" width="34.01" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m1RIJeh8Od90vUy7fvxv-6" value="Azure Kubernetes Service (AKS)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="90" width="200" height="30" as="geometry" />
+          <mxGeometry x="50" y="10" width="34.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-8" value="User Node Pool" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Availability Zone 1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="165" width="100" height="30" as="geometry" />
+          <mxGeometry x="295" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Availability Zone 2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="410" width="100" height="30" as="geometry" />
@@ -99,6 +96,15 @@
         </mxCell>
         <mxCell id="m1RIJeh8Od90vUy7fvxv-40" value="Kibana - 2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="310" y="369" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m1RIJeh8Od90vUy7fvxv-41" value="Azure Kubernetes Service (AKS)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="10" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m1RIJeh8Od90vUy7fvxv-46" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=svc;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="498" y="150" width="38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m1RIJeh8Od90vUy7fvxv-47" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="395" y="148" width="30" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
