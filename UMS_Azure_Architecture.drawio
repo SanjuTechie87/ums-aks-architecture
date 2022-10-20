@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T05:34:10.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UAD0f-Q91YPzZ467LQ9x" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T05:38:13.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rW3wE9j6kqPieNDik8dC" version="20.4.2" type="github">
   <diagram id="vE-s246k_aeRdo4_wEya" name="Page-1">
     <mxGraphModel dx="2071" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -321,6 +321,39 @@
         </mxCell>
         <mxCell id="XqV5y8-OUDh3f7qE2_EZ-139" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=svc;strokeWidth=1;fontSize=11;direction=south;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="54.01" y="402" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XqV5y8-OUDh3f7qE2_EZ-145" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="271" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XqV5y8-OUDh3f7qE2_EZ-146" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;strokeWidth=1;fontSize=11;fontStyle=1" vertex="1" parent="XqV5y8-OUDh3f7qE2_EZ-145">
+          <mxGeometry x="22.5" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XqV5y8-OUDh3f7qE2_EZ-147" value="Elastalert" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=1;fontSize=11;" vertex="1" parent="XqV5y8-OUDh3f7qE2_EZ-145">
+          <mxGeometry x="5" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XqV5y8-OUDh3f7qE2_EZ-148" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;strokeWidth=1;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="500" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XqV5y8-OUDh3f7qE2_EZ-149" value="Elastalert" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="516" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XqV5y8-OUDh3f7qE2_EZ-151" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=11;opacity=30;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XqV5y8-OUDh3f7qE2_EZ-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="330" as="sourcePoint" />
+            <mxPoint x="500" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XqV5y8-OUDh3f7qE2_EZ-152" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=11;opacity=30;entryX=0.367;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="490" as="sourcePoint" />
+            <mxPoint x="592.9900000000002" y="418.99000000000024" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="419" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
