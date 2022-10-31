@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T03:29:57.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aQskUmQMHM7TkQBAC4Ge" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T03:30:54.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="E8iTRIGKpjG250nDn14v" version="20.5.0" type="github">
   <diagram id="vE-s246k_aeRdo4_wEya" name="Page-1">
     <mxGraphModel dx="3587" dy="2095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -497,6 +497,12 @@
             <mxPoint x="-402" y="708" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xWuGg_WA7FK-TzK2QGIO-12" value="Docker Push" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-580" y="720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xWuGg_WA7FK-TzK2QGIO-13" value="Docker Pull" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-370" y="720" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
